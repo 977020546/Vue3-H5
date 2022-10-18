@@ -1,0 +1,1 @@
+import{d as t,o as a,c as s,a as n,t as o}from"./index.6bd07492.js";const i={__name:"index",setup(r){const e=t("\u6211\u7684");return(c,l)=>(a(),s("div",null,[n("h1",null,o(e.value),1)]))}};export{i as default};
